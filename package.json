@@ -1,11 +1,9 @@
 {
-  "name": "myProjectpic",
+  "name": "alurapic",
   "version": "0.0.0",
   "scripts": {
-    "instalar": "npm install",
-    "awesome": "npm install font-awesome --save ",
     "ng": "ng",
-    "start": "ng serve --open ",
+    "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -22,15 +20,13 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
-    "@auth0/angular-jwt": "^5.0.2",
-    "@nativescript/schematics": "^11.0.0",
-    "angular-font-awesome": "^3.1.2",
+    "@types/stacktrace-js": "0.0.32",
     "bootstrap": "^4.1.1",
     "core-js": "^2.5.4",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
     "jwt-decode": "^2.2.0",
     "rxjs": "^6.0.0",
+    "stacktrace-js": "^2.0.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
